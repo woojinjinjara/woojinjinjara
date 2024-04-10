@@ -7,7 +7,7 @@ Kangwon National University CSE 2024.03~
 
 ---
 **<p align="center">Software Club</p>**
-Dodang Middle School C language Club ???~??? (CodeUp problem-solving club with a teacher ~~(Written as problem solving and read as shoveling)~~)
+Dodang Middle School C language Club ???~??? (CodeUp problem-solving club ~~(Written as problem solving with a teacher and read as shoveling with a teacher)~~)
 
 Dodang High School 미소로(미래로 가는 소프트웨어와 로봇)  2021.03~2023.01
 
