@@ -1,4 +1,4 @@
-# <p align="center">Welcome to DeMoCa's GITHUB!</p>
+# <p align="center">Welcome to DeMoCa's GitHub!</p>
 ---
 
 *I want to write code that helps people and further benefits the world.*
