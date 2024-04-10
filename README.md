@@ -23,9 +23,9 @@ Kangwon Nat'l Univ LikeLion 12th(FrontEnd) 2024.03~
 ---
 **<p align="center">Currently learning</p>**
 - Java
-- python
-- Java Script&React
-- html&css
+- Python ~~(Been doing it for several years)~~
+- JavaScript&React
+- HTML&CSS
 ---
 **<p align="center">Planned</p>**
 - Kotlin
