@@ -16,7 +16,7 @@ Dodang High School 미소로(미래로 가는 소프트웨어와 로봇)  2021.0
 Kangwon Nat'l Univ LikeLion 12th(FrontEnd) 2024.03~
 
 ---
-**<p align="center">interests</p>**
+**<p align="center">Interests</p>**
 - Web
 - Android App
 - Artificial intelligence
