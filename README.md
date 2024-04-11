@@ -3,7 +3,7 @@
 
 ---
 **<p align="center">University</p>**
-Kangwon National University CSE 2024.03~ (Planned leave of absence 2025.03~2027.02(military))
+Kangwon National University CSE 2024.03~ (Planned leave of absence 2025.03~2027.02(Military))
 
 ---
 **<p align="center">Software Club</p>**
