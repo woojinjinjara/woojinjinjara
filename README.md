@@ -26,6 +26,6 @@ Kangwon Nat'l Univ LikeLion 12th(FrontEnd) 2024.03~
 - HTML&CSS
 ---
 **<p align="center">Planned</p>**
-- Ministry of National Defense Quest
+- ~~Ministry of National Defense Quest~~
 - Kotlin
 ---
