@@ -3,7 +3,7 @@
 
 ---
 **<p align="center">University</p>**
-Kangwon National University CSE 2024.03~ (Planned leave of absence 2025.03~2027.02)(I have to go do the quest for the Ministry of National Defense.)
+Kangwon National University CSE 2024.03~ (Planned leave of absence 2025.03~2027.02(military))
 
 ---
 **<p align="center">Software Club</p>**
@@ -26,5 +26,6 @@ Kangwon Nat'l Univ LikeLion 12th(FrontEnd) 2024.03~
 - HTML&CSS
 ---
 **<p align="center">Planned</p>**
+~~- Ministry of National Defense Quest~~
 - Kotlin
 ---
