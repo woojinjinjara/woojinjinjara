@@ -29,5 +29,6 @@ Kangwon Nat'l Univ LikeLion 12th(FrontEnd) 2024.03~
 - ~~Ministry of National Defense Quest~~
 - Kotlin
 ---
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=331110kim)](https://solved.ac/331110kim)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=331110kim)](https://solved.ac/331110kim)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=331110kim&theme=warm)
