@@ -1,5 +1,6 @@
 # <p align="center">Welcome to DeMoCa's GitHub!</p>
-
+*R.O.K NAVY 2025.02.10~2026.10.09*
+---
 *I want to write code that helps people and further benefits the world.*
 ---
 **<p align="center">Interests</p>**
@@ -14,7 +15,6 @@
 - HTML&CSS
 ---
 **<p align="center">Planned</p>**
-- ~~Ministry of National Defense Quest~~
 - Kotlin
 ---
 [![Solved.ac
